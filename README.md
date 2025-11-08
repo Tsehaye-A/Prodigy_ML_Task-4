@@ -84,8 +84,9 @@ To develop a machine learning model that can accurately recognize and classify h
 T.A.  
 Machine Learning Intern – Prodigy InfoTech  
 
-Email: [your.email@example.com]  
-LinkedIn: [your-linkedin-profile]  
+Email: tsehayeresearch1@gmail.com
+LinkedIn:www.linkedin.com/in/
+tsehaye-hailemariamm-aa128b378
 
 ---
 
