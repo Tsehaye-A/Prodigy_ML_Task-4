@@ -81,7 +81,7 @@ To develop a machine learning model that can accurately recognize and classify h
 ---
 
 ## Author
-T.A.  
+Tsehaye Araya Hailemariam 
 Machine Learning Intern – Prodigy InfoTech  
 
 Email: tsehayeresearch1@gmail.com
